@@ -159,3 +159,4 @@ Densidade: 0.590, Nº de nós: 15, Nº de arestas: 62, Grau médio: 8.267
 ```
 ![IMG10](https://github.com/user-attachments/assets/7f7bd2b0-15d3-436a-8d7f-64245cbed041)
 
+Link do vídeo explicativo -> https://drive.google.com/file/d/1ttlp6TZFdyJ1r5WE_Y5r3_X7G5E8alLA/view?usp=sharing
