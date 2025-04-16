@@ -5,7 +5,7 @@ Disciplina: Algoritmos e Estruturas de Dados II
 
 ---
 </br>
-O presente projeto tem como objetivo analisar a rede de co-autoria dos trabalhos do Programa de Pós-graduação em Engenharia Elétrica e de Computação (PPgEEC) da UFRN, bem como reforçar os conceitos sobre grafos, aprendidos em sala de aula, utilizando a biblioteca NetworkX. 
+O presente projeto tem como objetivo analisar a rede de co-autoria dos trabalhos do Programa de Pós-graduação em Engenharia Elétrica e de Computação (PPgEEC) da UFRN, bem como reforçar os conceitos sobre grafos aprendidos em sala de aula, utilizando a biblioteca NetworkX. 
 </br>
 Outras bibliotecas importantes que também são utilizadas no projeto:
 
