@@ -108,7 +108,7 @@ pip install joypy # Para instalar a biblioteca Joypy
 
 ![IMG3](https://github.com/user-attachments/assets/35c88232-1395-44e5-ad8e-3e76a181065c)
 
-# Requsito 2
+# Requisito 2
 # Visualização dos Grafos
 ### Foi criado um grafo para cada período de avaliação do PPgEEC, a fim de serem visualizadas as conexões e características das redes.
 #### Períodos de avaliação:
