@@ -102,9 +102,9 @@ A fim de ser analisada a distribuição do número de vizinhos nas redes, foi cr
 </br>
 </br>Utilizando a biblioteca Joypy, foi criado um gráfico do tipo Ridge Plot, um estilo de gráfico em 'camadas', a fim de analisar o comportamento da curva de probabilidade dos graus de cada rede.
 
-´´´
+```
 pip install joypy # Para instalar a biblioteca Joypy
-´´´
+```
 
 ![IMG3](https://github.com/user-attachments/assets/35c88232-1395-44e5-ad8e-3e76a181065c)
 
@@ -138,24 +138,24 @@ pip install joypy # Para instalar a biblioteca Joypy
 O código abaixo cria um grafo com os dados da rede geral (2010-2025) de co-autoria do PPgEEC, mantendo as mesmas características do requisito 2. 
 A fim de análise, são impressas as métricas da rede, mostrando a Densidade, nº de  nós, nº de arestas e média dos graus.
 
-´´´
+```
 Rede de autores geral (2010-2025)
 Densidade: 0.009, Nº de nós: 2454, Nº de arestas: 26113, Grau médio: 21.282
-´´´
+```
 ![IMG8](https://github.com/user-attachments/assets/1b75bed0-c4f5-480d-8eea-566807079401)
 
 Nessa segunda parte do requisito 3, é criado um sub-grafo da rede geral apenas com os vértices que possuem pelo menos 200 vizinhos. 
 </br>A fim de análise, são impressas as métricas da rede, mostrando a Densidade, Nº de  nós, Nº de arestas e Média dos graus.
 
-´´´
+```
 Sub-grafo da rede geral de autores
 Densidade: 0.561, Nº de nós: 19, Nº de arestas: 96, Grau médio: 10.105
-´´´
+```
 ![IMG9](https://github.com/user-attachments/assets/e9e3ee51-542e-4431-9074-f0e160b5d337)
 
-´´´
+```
 Nó Ego de maior grau do sub-grafo
 Densidade: 0.590, Nº de nós: 15, Nº de arestas: 62, Grau médio: 8.267
-´´´
+```
 ![IMG10](https://github.com/user-attachments/assets/7f7bd2b0-15d3-436a-8d7f-64245cbed041)
 
