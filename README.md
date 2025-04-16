@@ -123,10 +123,10 @@ pip install joypy # Para instalar a biblioteca Joypy
 - O tamanho do vértice é proporcional ao número de vizinhos (grau do vértice)
 - Os 5 vértices com mais vizinhos estão destacados com a cor vermelha e é mostrado o valor do 'id'
 - Cor da aresta dependerá da ligação entre membros permanentes:
- - vermelha, caso a propriedade do vértice 'is_permanent' = True
- - Preta, caso a propriedade do vértice 'is_permanent' = False
+  - Vermelha, caso a propriedade do vértice 'is_permanent' = True
+  - Preta, caso a propriedade do vértice 'is_permanent' = False
 - A espessura da aresta será proporcional à quantidade de citações:
- - Ou seja, proporcional à propriedade da aresta 'citation_num'
+  - Ou seja, proporcional à propriedade da aresta 'citation_num'
 
 ![IMG4](https://github.com/user-attachments/assets/76eb2a53-2633-44d1-b596-0da38485a3b8)
 ![IMG5](https://github.com/user-attachments/assets/dd8d27a3-6f32-4d8e-9034-4cdf323ab713)
