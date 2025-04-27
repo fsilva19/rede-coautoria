@@ -1,7 +1,7 @@
 # Redes Temporais de Co-Autoria (U1P1)
 ---
 Disciplina: Algoritmos e Estruturas de Dados II
-</br>Discente: Felipe Gabriel B. da Silva
+</br>Discente: Felipe Gabriel B. da Silva - 20240001322
 
 ---
 </br>
